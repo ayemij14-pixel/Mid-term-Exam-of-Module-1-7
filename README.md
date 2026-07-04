@@ -58,7 +58,7 @@ If you found this repository useful:
 
 The goal of this repository is to help students understand the concepts—not just memorize them—so they can approach the mid term exam with confidence and build a strong foundation in Agentic AI.
 
-Happy Learning, and Best of Luck on Your Certification Journey! 🚀
+Happy Learning, and Best of Luck on Your Exam Journey! 🚀
 
 * 🔗 [Official learning resources for deeper study](https://agentfactory.panaversity.org/)
 
